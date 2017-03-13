@@ -6,4 +6,4 @@
  * Time: 11:05
  */
 
-echo 'Bye World';
+echo 'Hello new World';
